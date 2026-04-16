@@ -133,6 +133,6 @@ http://localhost:8080/swagger-ui.html
 
 ## 👨‍💻 Autor
 
-* Kevin Cochachin Infantes
+* Alexander Kevin Cochachin Infantes
 
 ---
